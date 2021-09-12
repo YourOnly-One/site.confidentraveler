@@ -30,19 +30,19 @@ replacements = [
 [[imports]]
   path = "github.com/YourOnly-One/youronlyone-hugo-content"
   # BGN: /confidentraveler/ content
-    #[[module.imports.mounts]]
+    #[[imports.mounts]]
     #  source = "confidentraveler/eng-ph"
     #  target = "content"
     #  lang = "en"
-    [[module.imports.mounts]]
+    [[imports.mounts]]
       source = "confidentraveler/eng-ph"
       target = "content"
       lang = "en-ph"
-    #[[module.imports.mounts]]
+    #[[imports.mounts]]
     #  source = "confidentraveler/nihongo"
     #  target = "content"
     #  lang = "ja"
-    #[[module.imports.mounts]]
+    #[[imports.mounts]]
     #  source = "confidentraveler/hangugeo"
     #  target = "content"
     #  lang = "ko"
