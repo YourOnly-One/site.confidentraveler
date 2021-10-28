@@ -1,5 +1,5 @@
 ####### Base Config #######
-  baseURL = "https://im.youronly.one/confidentraveler"
+  baseURL = "https://im.youronly.one/confidentraveler/"
   title = "Confident Traveler"
   copyright = ""                                          # we are using our own footer
   timeZone = "Asia/Manila"
