@@ -1,4 +1,4 @@
-module confidentraveler
+module gitlab.com/youronlyone/site.confidentraveler
 
 go 1.18
 
