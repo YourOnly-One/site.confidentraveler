@@ -6,7 +6,7 @@
   "lang": "en-PH",
   "categories": ["food", "photo", "travel"],
   "display": "minimal-ui",
-  "scope": "https://im.youronly.one/yuki/channels/confident-traveler/",
+  "scope": "https://im.youronly.one/confidentraveler/",
   "start_url": "https://im.youronly.one/confidentraveler/",
   "icons": [
     {
