@@ -30,19 +30,19 @@ workspace = "off"
   path = "codeberg.org/youronlyone/content"
   # BGN: /confidentraveler/ content
     #[[imports.mounts]]
-    #  source = "confidentraveler/en-ph"
+    #  source = "content/confidentraveler/en-ph"
     #  target = "content"
     #  lang = "en"
     [[imports.mounts]]
-      source = "confidentraveler/en-ph"
+      source = "content/confidentraveler/en-ph"
       target = "content"
       lang = "en-ph"
     #[[imports.mounts]]
-    #  source = "confidentraveler/ja"
+    #  source = "content/confidentraveler/ja"
     #  target = "content"
     #  lang = "ja"
     #[[imports.mounts]]
-    #  source = "confidentraveler/ko"
+    #  source = "content/confidentraveler/ko"
     #  target = "content"
     #  lang = "ko"
   # END: /confidentraveler/ content
