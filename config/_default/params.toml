@@ -4,8 +4,8 @@ _merge = "deep"
 favicon_mstilecolor = "#603cba"
 
 ### BGN: Structured Data ###
-  description = "Confident Traveler 🧭 by ᜌᜓᜃᜒ (Yuki ・ 雪亮) / Yahuhanan Yukia Sese Cuneta."
-  keywords = ["Confident Traveler", "Confidentraveler", "YourOnly.One", "Yuki", "ᜌᜓᜃᜒ"] # Can be overriden per page
+  description = "Confident Traveler 🧭 by ᜌᜓᜃᜒ (Yuki ・ 雪亮) / Yahuhanan Yukiya Sese Cuneta."
+  keywords = ["Confident Traveler", "Confidentraveler", "自信のある旅行者", "당당하 여행자", "자신감있는 여행자", "YourOnlyOne", "YourOnly.One", "Yahuhanan Yukiya Sese Cuneta", "Yuki", "YoHan", "Yo-Han", "ᜌᜓᜃᜒ", "사요한", "謝雪矢（ゆきや）", "스노", "Seu-No", "SeuNo", "Snow", "Yohanan", "ᜌᜓᜑᜈᜈ᜔", "ᜌᜓᜑᜈᜈ᜕", "ᜌᜑᜓᜑᜈᜈ᜔", "ᜌᜑᜓᜑᜈᜈ᜕"] # Can be overriden per page
   images = ["https://rsc.youronly.one/img/y/Confident_Traveler-logo-01-1500x.webp"]
 ### END: Structured Data ###
 
@@ -28,7 +28,6 @@ favicon_mstilecolor = "#603cba"
       "https://www.facebook.com/confidentraveler",
       "https://c.im/@YourOnlyOne",
       "https://pixelfed.social/YourOnlyOne",
-      "https://hashi.icu/@YourOnlyOne",
       "https://www.youtube.com/@YourOnlyOneOfcl",
       "https://www.facebook.com/YourOnly.ONE.ofcl"
     ]
